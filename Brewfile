@@ -11,5 +11,3 @@ cask 'github-desktop'
 cask 'vagrant'
 cask 'virtualbox'
 cask 'firefox'
-
-tap Homebrew/bundle
