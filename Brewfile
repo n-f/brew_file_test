@@ -1,5 +1,5 @@
 # Casks
-install brew-cask
+cask_args appdir: '/Applications'
 tap 'caskroom/cask'
 cask 'google-chrome'
 cask 'evernote'
@@ -10,8 +10,7 @@ cask 'vagrant'
 cask 'virtualbox'
 
 
-# aaaaaaaaaaaa
 
 cask 'firefox'
 
-# tap Homebrew/bundle
+tap Homebrew/bundle
