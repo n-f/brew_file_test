@@ -11,3 +11,7 @@ cask 'github-desktop'
 cask 'vagrant'
 cask 'virtualbox'
 cask 'firefox'
+
+#4.18 追加
+brew 'git'
+brew 'wget'
